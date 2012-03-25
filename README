@@ -1,6 +1,6 @@
 # lenzo.css / Cross-browser CSS Modular Framework
 
-HTML5 & CSS3 User Interface Design patterns
+User Interface Design patterns built in HTML5 & CSS3
 
 ## Introduction
 
@@ -10,3 +10,119 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Coding Guidelines
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## References
+  
+### Coding Style Guidelines
+    - http://bitworking.org/news/CSS_Coding_Style
+    - https://github.com/styleguide/css/
+    - http://na.isobar.com/standards/
+    - http://oli.jp/2011/style-guide/
+  
+### Naming conventions
+    - https://gist.github.com/2052548
+  
+### DOCUMENTATION GENERATOR
+    - KSS (https://github.com/kneath/kss)
+    
+### TESTING
+  
+    - http://needle.readthedocs.org
+    - http://www.morethanseven.net/2008/10/13/unit-testing-css-looking-solution.html
+    - http://blog.ajcw.com/2010/12/automated-css-testing-or-how-one-css-coder-is-now-responsible-for-breaking-%E2%80%93-and-fixing-%E2%80%93-the-build/
+    - https://browserlab.adobe.com/en-us/index.html#
+    
+#### Continuous integration
+      - http://www.jetbrains.com/teamcity/
+      - http://travis-ci.org/
+      
+  
+### HTML5
+    - http://slides.html5rocks.com/#canvas-3d
+    
+    
+### ARCHITECTURE
+    
+    - http://terrifically.org/
+    - http://smacss.com/
+    - http://bem.github.com/bem-method/pages/beginning/beginning.en.html
+    
+    
+### UI PATTERNS
+    
+    - http://twitter.github.com/bootstrap/
+    - http://foundation.zurb.com/
+    - http://www.99lime.com/elements/
+    
+    - http://ui-patterns.com/
+    - http://patterntap.com/
+    - http://mobile-patterns.com/custom-tab-navigation
+    - table patterns http://www.jankoatwarpspeed.com/post/2010/02/26/table-ui-patterns.aspx
+    - http://alloy.liferay.com/demos.php
+    - http://twitter.github.com/bootstrap/components.html#misc
+    
+  
+### PAGE DESIGN DIVISION
+    
+    - Our division
+      
+      - Estructure
+        - Grids
+          http://gridpak.com/
+        - Nicolle sullivan grids
+        
+  
+    - Twitter bootstrap
+      - Scaffolding
+        - typography and base styles
+        - normalize
+        - grids
+        - layout
+      - Base CSS
+        - Typography
+        - COde
+        - Tables
+        - Forms
+        - Buttons
+        - Icons
+      - Components
+        - Buttons
+          - button groups
+          - button dropdowns
+        - Navigation
+          - Nav, Tabs, pills
+          - Navbar
+          - Breadcrumbs
+          - Pagination
+        - Labels
+        - Badges
+        - Typography
+        - Thumbnails
+        - Alerts
+        - Progress bars
+        - Miscellaneous
+    
+    - Zurb Foundation
+      - Grid
+      - Buttons
+      - Forms
+      - UI
+      - Orbit
+      - Reveal
+      - Gems
+      - QA (browser compatibility and more...)
+    
+  - TOOLS
+    - Optimizer
+      - https://github.com/afelix/csso
+    - caniuse
+      - http://caniuse.com/#search=box-sizing
+      
+  
+  
+### SASS MIXINS
+    - http://thoughtbot.com/bourbon/
+    
+  
+### PLAYGROUNDS
+    -http://jakob.cosoroaba.ro/demos/
