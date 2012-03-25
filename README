@@ -19,35 +19,25 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     - http://na.isobar.com/standards/
     - http://oli.jp/2011/style-guide/
   
-### Naming conventions
+### Naming Conventions
     - https://gist.github.com/2052548
 
 ### DOCUMENTATION GENERATOR
-    - KSS (https://github.com/kneath/kss)
-    
-### TESTING
-    - http://needle.readthedocs.org
-    - http://www.morethanseven.net/2008/10/13/unit-testing-css-looking-solution.html
-    - http://blog.ajcw.com/2010/12/automated-css-testing-or-how-one-css-coder-is-now-responsible-for-breaking-%E2%80%93-and-fixing-%E2%80%93-the-build/
-    - https://browserlab.adobe.com/en-us/index.html#
-    
-#### Continuous integration
-      - http://www.jetbrains.com/teamcity/
-      - http://travis-ci.org/
-      
+    - KSS (https://github.com/kneath/kss)    
   
 ### HTML5
+
     - http://slides.html5rocks.com/#canvas-3d
     
     
-### ARCHITECTURE
+### CSS Architecture
     
     - http://terrifically.org/
     - http://smacss.com/
     - http://bem.github.com/bem-method/pages/beginning/beginning.en.html
     
     
-### UI PATTERNS
+### UI Patterns
     
     - http://twitter.github.com/bootstrap/
     - http://foundation.zurb.com/
@@ -62,16 +52,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     
   
 ### PAGE DESIGN DIVISION
-    
-    - Our division
-      
-      - Estructure
-        - Grids
-          http://gridpak.com/
-        - Nicolle sullivan grids
-        
   
-    - Twitter bootstrap
+  #### Twitter bootstrap
+  
       - Scaffolding
         - typography and base styles
         - normalize
@@ -111,17 +94,33 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
       - Gems
       - QA (browser compatibility and more...)
     
-  - TOOLS
+### TOOLS
+
     - Optimizer
       - https://github.com/afelix/csso
     - caniuse
       - http://caniuse.com/#search=box-sizing
       
   
+### Testing
+    - http://needle.readthedocs.org
+    - http://www.morethanseven.net/2008/10/13/unit-testing-css-looking-solution.html
+    - http://blog.ajcw.com/2010/12/automated-css-testing-or-how-one-css-coder-is-now-responsible-for-breaking-%E2%80%93-and-fixing-%E2%80%93-the-build/
+    - https://browserlab.adobe.com/en-us/index.html#
+    
+#### Continuous integration
+
+      - http://www.jetbrains.com/teamcity/
+      - http://travis-ci.org/
+  
   
 ### SASS MIXINS
+
     - http://thoughtbot.com/bourbon/
     
   
 ### PLAYGROUNDS
     -http://jakob.cosoroaba.ro/demos/
+    
+### Recompile
+http://documentup.com/vieron/lenzo.css/recompile
